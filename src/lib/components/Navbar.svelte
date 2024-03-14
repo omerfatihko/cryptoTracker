@@ -1,6 +1,7 @@
 <script lang="ts">
     import '@fontsource-variable/orbitron/wght.css';
     import Button from './ui/button/button.svelte';
+    import { Separator } from "$lib/components/ui/separator";
 </script>
 
 <header class= "flex flex-wrap justify-center sm:justify-between">
@@ -15,6 +16,7 @@
         </div>
     </nav>
 </header>
+<Separator class="my-2"/>
 
 <style>
     h1 {

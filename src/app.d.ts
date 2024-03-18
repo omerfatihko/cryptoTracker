@@ -10,4 +10,10 @@ declare global {
 	}
 }
 
-export {};
+interface Coin {
+	name: string
+	symbol: string
+	checked: boolean
+}
+
+export {Coin};

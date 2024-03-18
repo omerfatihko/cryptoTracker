@@ -1,0 +1,87 @@
+{
+    "Coins": [
+        {
+            "name": "Bitcoin",
+            "symbol": "BTC",
+            "checked": true
+        },
+        {
+            "name": "Etherium",
+            "symbol": "ETH",
+            "checked": false
+        },
+        {
+            "name": "Cardano",
+            "symbol": "ADA",
+            "checked": false
+        },
+        {
+            "name": "Ankr",
+            "symbol": "ANKR",
+            "checked": false
+        },
+        {
+            "name": "Aptos",
+            "symbol": "APT",
+            "checked": false
+        },
+        {
+            "name": "Basic Attention Token",
+            "symbol": "BAT",
+            "checked": false
+        },
+        {
+            "name": "Filecoin",
+            "symbol": "FIL",
+            "checked": false
+        },
+        {
+            "name": "The Graph",
+            "symbol": "GRT",
+            "checked": false
+        },
+        {
+            "name": "Polygon",
+            "symbol": "MATIC",
+            "checked": false
+        },
+        {
+            "name": "Render Token",
+            "symbol": "RNDR",
+            "checked": false
+        },
+        {
+            "name": "Solana",
+            "symbol": "SOL",
+            "checked": false
+        },
+        {
+            "name": "Storj",
+            "symbol": "STORJ",
+            "checked": false
+        },
+        {
+            "name": "Stacks",
+            "symbol": "STX",
+            "checked": false
+        },
+        {
+            "name": "Tezos",
+            "symbol": "XTZ",
+            "checked": false
+        }
+    ],
+    "Currencies": [
+        {
+            "name": "Tether",
+            "symbol": "USDT",
+            "checked": false
+        },
+        {
+            "name": "Türk lirası",
+            "symbol": "TRY",
+            "checked": true
+        }
+    ]
+
+}

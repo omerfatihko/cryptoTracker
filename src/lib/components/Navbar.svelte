@@ -14,8 +14,8 @@
     </div>
     <nav class="grow sm:grow-0">
         <div class="flex justify-center sm:justify-end">
-            <Button variant="ghost" href="/">Home</Button>
-            <Button variant="ghost" href="/about">About</Button>
+<!--             <Button variant="ghost" href="/">Home</Button>
+            <Button variant="ghost" href="/about">About</Button> -->
             <Button on:click={toggleMode} variant="ghost" size="icon">
                 <Sun
                   class="h-[1.2rem] w-[1.2rem] rotate-0 scale-100 transition-all dark:-rotate-90 dark:scale-0"

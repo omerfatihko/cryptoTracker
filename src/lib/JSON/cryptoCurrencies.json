@@ -75,12 +75,12 @@
         {
             "name": "Tether",
             "symbol": "USDT",
-            "checked": false
+            "checked": true
         },
         {
-            "name": "Türk lirası",
+            "name": "Turkish lira",
             "symbol": "TRY",
-            "checked": true
+            "checked": false
         }
     ]
 
